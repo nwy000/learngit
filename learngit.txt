@@ -1,4 +1,4 @@
 git is a tool
 test
 git is free software under the GPL
-test feature 1
+test feature
